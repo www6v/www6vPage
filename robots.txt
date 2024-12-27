@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://localhost:1313/www6vPageHugo/sitemap.xml
+Sitemap: https://www6v.github.io/www6vPage/sitemap.xml

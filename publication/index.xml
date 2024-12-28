@@ -5,12 +5,30 @@
     <link>https://www6v.github.io/www6vPage/publication/</link>
       <atom:link href="https://www6v.github.io/www6vPage/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www6v.github.io/www6vPage/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://www6v.github.io/www6vPage/publication/</link>
     </image>
+    
+    <item>
+      <title>[博士论文]Optimization for Large Language Model Inference Serving: from Algorithms to Systems</title>
+      <link>https://www6v.github.io/www6vPage/publication/docpaper/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www6v.github.io/www6vPage/publication/docpaper/</guid>
+      <description>&lt;p&gt;LLM inference&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[硕士论文]分布式服务治理框架的原理与实现</title>
+      <link>https://www6v.github.io/www6vPage/publication/masterpaper/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://www6v.github.io/www6vPage/publication/masterpaper/</guid>
+      <description>&lt;p&gt;服务治理框架&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
